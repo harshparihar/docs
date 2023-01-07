@@ -2,7 +2,8 @@
 
 How do you find all pairs of an integer array whose sum is equal to a given number?
 
-`pairs = []
+`
+pairs = []
 sum = 6
 arr = [1,5,7,-1,-3,9]
 for i in 0..arr.length-1
@@ -13,4 +14,5 @@ for i in 0..arr.length-1
     end 
   end
 end
-pairs`
+pairs
+`
